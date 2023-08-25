@@ -1,10 +1,5 @@
-﻿USB-C Charging Cable,4,47.8,11.95
-Bose SoundSport Headphones,2,199.98,99.99
-Google Phone,3,1800.0,600.0
-Wired Headphones,3,35.97,11.99
-Macbook Pro Laptop,1,1700.0,1700.0
-Lightning Charging Cable,2,29.9,14.95
-27in 4K Gaming Monitor,1,389.99,389.99
-AA Batteries (4-pack),1,3.84,3.84
-Apple Airpods Headphones,1,150.0,150.0
-AAA Batteries (4-pack),1,2.99,2.99
+﻿,USB-C Charging Cable,Bose SoundSport Headphones,Google Phone,Wired Headphones,Macbook Pro Laptop,Lightning Charging Cable,27in 4K Gaming Monitor,AA Batteries (4-pack),Apple Airpods Headphones,AAA Batteries (4-pack)
+total_sales,4,2,3,3,1,2,1,1,1,1
+total_quantity,5,2,3,3,1,2,1,1,1,1
+average_price,11.95,99.99,600,11.99,1700,14.95,389.99,3.84,150,2.99
+most_common_address,"381 Wilson St, San Francisco, CA 94016","668 Center St, Seattle, WA 98101","669 Spruce St, Los Angeles, CA 90001","333 8th St, Los Angeles, CA 90001","915 Willow St, San Francisco, CA 94016","438 Elm St, Seattle, WA 98101","657 Hill St, Dallas, TX 75001","186 12th St, Dallas, TX 75001","149 Dogwood St, New York City, NY 10001","433 Hill St, New York City, NY 10001"
