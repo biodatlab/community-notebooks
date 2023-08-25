@@ -1,0 +1,9 @@
+# pip install -r requirements.txt
+
+# labelme -------------------------------------
+labelme>=4.5.9
+
+# labelme2yolo --------------------------------
+opencv-python-headless
+Pillow
+scikit-learn

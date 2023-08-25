@@ -1,0 +1,6 @@
+train: ./pothole_images/YOLODataset/images/train/
+val: ./pothole_images/YOLODataset/images/val/
+
+nc: 1
+
+names: ['0']
